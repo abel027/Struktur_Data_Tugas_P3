@@ -1,7 +1,7 @@
 /*
 	program 	: Tugas4.java
 	pembuat		: Muhammad Abbel Prasetya
-	tanggal		: 24/09/2021
+	tanggal		: 24/09/2022
 	deskripsi 	: program yang menghitung total biaya tiket yang harus dibayar penumpang
 	
 */
