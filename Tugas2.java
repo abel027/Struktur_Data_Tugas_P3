@@ -1,7 +1,7 @@
 /*
 	program		: Tugas2.java
 	pembuat		: Muhammad Abbel prasetya
-	tanggal		: 24/09/2017
+	tanggal		: 24/09/2022
 	deskripsi	: program yang menghitung serta menampilkan besar diskon (jika ada) serta nilai
 				  belanja setelah diskon
 	
