@@ -1,7 +1,7 @@
 /*
 	program 	: Tugas3.java
 	pembuat		: Muhammad Abbel Prasetya
-	tanggal		: 24/09/2021
+	tanggal		: 24/09/2022
 	deskripsi 	: menghitung biaya yang harus dibayar pelanggan warnet
 	
 */
