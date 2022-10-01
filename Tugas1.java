@@ -1,7 +1,7 @@
 /*
 	program 	: Tugas1.java
 	pembuat		: Muhammad Abbel Prasetya
-	tanggal		: 24/09/2021
+	tanggal		: 24/09/2022
 	deskripsi 	: Program menentukan apakah bilangan tersbut merupakan bilangan 
 				  kelipatan 3 yang ganjil atau bukan
 	
